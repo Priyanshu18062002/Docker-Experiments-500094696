@@ -1,7 +1,4 @@
 
-### 📄 `exp1/README.md`
-
-```markdown
 # 🔹 Experiment 1: Run a Basic Python Script with Docker
 
 This experiment demonstrates how to run a basic Python script using Docker. It’s the simplest way to containerize a Python program and get started with Docker development.
